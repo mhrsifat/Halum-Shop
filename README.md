@@ -11,3 +11,8 @@ See the LICENSE file for full details or contact mhrsifat@gmail.com.
 
 ## Live Demo
 👉 [Click here to visit the live site](https://halum.mhrsifat.xyz)
+
+**Admin Login Details**
+Admin Url: https://halum.mhrsifat.xyz/admin
+Email   : admin@gmail.com
+Password: 1234
